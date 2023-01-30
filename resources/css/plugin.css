@@ -1,1 +1,5 @@
 @tailwind utilities;
+
+.filament-body.filament-plausible-page {
+    @apply bg-gray-50 !important;
+}
